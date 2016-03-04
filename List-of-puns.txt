@@ -1,1 +1,3 @@
 Git with the program - program with Git!
+
+Bear hands!
